@@ -253,9 +253,8 @@ def webhook():
                 "📞 *Наши контакты*\n\n"
                 "📍 Доставка по городу\n"
                 "⏰ Режим: 10:00 - 20:00\n\n"
-                "📱 +7 (XXX) XXX-XX-XX\n"
-                "💬 @flank_deli_manager\n"
-                "📧 flank@delicatessen.ru",
+                "📱 +7 (906) 744-77-22\n"
+                "💬 @flank_deli_manager\n",
                 keyboard=main_menu()
             )
         
